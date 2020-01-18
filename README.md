@@ -1,5 +1,7 @@
 A subclass of UITextField that recognizes hashtags, @-mentions and relations (<>).
 
+![Screenshot](https://ibb.co/Sn6hDCD)
+
 Simply run the emulator and start typing away.
 
 The view logic is in `Views/AutocompleteBox.swift`
