@@ -1,5 +1,3 @@
-A subclass of UITextField that recognizes hashtags, @-mentions and relations (<>).
-
 ![Screenshot](https://i.imgur.com/xtUkknR.png)
 
 Simply run the emulator and start typing away.
